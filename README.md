@@ -17,9 +17,8 @@
   🌐 This seems interesting for me: <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Backend</strong>, <strong>Data Engineering</strong><br/><br/>
 </p>
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white" />
