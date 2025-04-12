@@ -8,7 +8,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Engineer-%23a259ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialty-Backend%20Development-%23a259ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Machine%20Learning-%23a259ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-Backend%20Development-%23a259ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Services-%23a259ff?style=for-the-badge&logoColor=white" />
 </div>
 
