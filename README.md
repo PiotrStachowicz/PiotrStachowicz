@@ -1,20 +1,38 @@
 <h1 align="center">Hi there, I'm <YOUR NAME> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Fullstack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;r" alt="Typing SVG" />
 </p>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Student+%7C+Software+Developer;Fullstack+Engineer+%7C+Tech+Enthusiast;Building+cool+stuff+and+learning+every+day" alt="Typing animation" />
+</p>
 
-🎓 I'm a Computer Science student / Software Developer based in <Your City>  
-💼 Currently working at **<Your Company or Freelancer / Student>**  
-🧠 Currently learning: <Your current learning focus – e.g., AWS, Rust, DevOps>  
-🌱 I love building side projects, contributing to open source, and learning new tech.  
-📚 Areas of interest: **Web Development**, **AI/ML**, **Cloud Computing**, **System Design**
+<table align="center">
+  <tr>
+    <td>🎓</td>
+    <td>CS student at <strong>&lt;Your University&gt;</strong>, passionate about code and innovation</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td>Currently working at <strong>&lt;Your Company or Freelance&gt;</strong></td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Learning <strong>&lt;e.g. AWS, Rust, DevOps&gt;</strong> and leveling up every week</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Enjoy building side projects and solving real-world problems with code</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td>Interests: <strong>Web Development</strong>, <strong>AI/ML</strong>, <strong>Cloud</strong>, <strong>System Design</strong></td>
+  </tr>
+</table>
 
----
 
 ## 🛠 Tech Stack
 
