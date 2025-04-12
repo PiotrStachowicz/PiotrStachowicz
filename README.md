@@ -41,8 +41,8 @@ Built for data exploration and model experimentation in Python with backend in C
 ### 🔹 UNIX Systems Programming
 Low-level systems programming projects in pure C for UNIX environments. Includes a custom shell and memory allocator.  
 Repos:
-- 📂 [`shell`](https://github.com/yourusername/minishell) – fully functional shell supporting pipes, redirections, signals, and built-in commands  
-- 📂 [`malloc`](https://github.com/yourusername/malloc) – custom implementation of `malloc` using memory mapping and manual block management
+- 📂 [`shell`](https://github.com/PiotrStachowicz/shell) – fully functional shell supporting pipes, redirections, signals, and built-in commands  
+- 📂 [`malloc`](https://github.com/PiotrStachowicz/malloc) – custom implementation of `malloc` using memory mapping and manual block management
 
 🛠 Stack: C, POSIX API, Memory Management, UNIX System Calls
 
