@@ -13,7 +13,7 @@
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
   🎓 Currently student: <strong>Computer Science</strong> at University of Wrocław.<br/><br/>
-  💼 Working as <strong>&lt;Data Engineer at Capgemini&gt;</strong>.<br/><br/>
+  💼 Working as <strong>Data Engineer at Capgemini&</strong>.<br/><br/>
   🌐 This seems interesting for me: <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Backend</strong>, <strong>Data Engineering</strong><br/><br/>
 </p>
 
@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
 </div>
 
----
-
 ## 📌 Featured Projects
 
 ### 🔹 Steam Game Recommendation System
@@ -41,8 +39,6 @@ Built for data exploration and model experimentation in Python with backend in C
 🛠 Stack: PyTorch, Pandas, NumPy, Python, Jupyter Notebook, C#  
 📂 Repo: [GitHub](https://github.com/DominikSzczepaniak/GameRecommender)
 
----
-
 ### 🔹 UNIX Systems Programming
 Low-level systems programming projects in pure C for UNIX environments. Includes a custom shell and memory allocator.  
 Repos:
@@ -51,15 +47,11 @@ Repos:
 
 🛠 Stack: C, POSIX API, Memory Management, UNIX System Calls
 
----
-
 ### 🔹 Gomoku with AI Agent
 **Gomoku** with an intelligent agent written in C. The project utilizes minimax algorithm with alpha-beta pruning.
 
 🛠 Stack: C, Minimax Algorithm, Alpha-Beta Pruning  
 📂 Repo: [GitHub](https://github.com/PiotrStachowicz/Gomoku)
-
----
 
 ## 🧠 Fun Facts
 - 🏸 I play badminton professionally  
@@ -68,15 +60,11 @@ Repos:
 - 👨‍🏫 I teach kids mathematics  
 - 🚴 I love cycling  
 
----
-
 ## 📫 Contact Me
 
 <p>
   <a href="mailto:piotrekstachowicz1@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/stachowicz-piotr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">✨ Checkout my profile! ✨</p>
