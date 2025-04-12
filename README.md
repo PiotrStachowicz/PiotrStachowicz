@@ -1,7 +1,5 @@
 <h1 align="center">✨ Piotr Stachowicz ✨</h1>
 
-<h2 align="center" style="color:#a259ff;"> About Me </h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A259FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CS+Student+%7C+Data+Engineer;Backend+Developer+%7C+Cloud Services" alt="Typing animation" />
 </p>
