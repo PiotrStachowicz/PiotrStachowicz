@@ -1,7 +1,7 @@
 <h1 align="center">✨ Piotr Stachowicz ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A259FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CS+Student+%7C+Data+Engineer;Backend+Developer+%7C+Cloud Services" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A259FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CS+Student+%7C+Data+Engineer;Backend+Developer+%7C+Machine+Learning" alt="Typing animation" />
 </p>
 
 <div align="center">
@@ -14,20 +14,21 @@
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
   🎓 Currently student: <strong>Computer Science</strong> at University of Wrocław.<br/><br/>
   💼 Working as <strong>&lt;Data Engineer at Capgemini&gt;</strong>.<br/><br/>
-  🌐 This seems iteresting for me: <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Backend</strong>, <strong>Data Engineering</strong><br/><br/>
+  🌐 This seems interesting for me: <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Backend</strong>, <strong>Data Engineering</strong><br/><br/>
 </p>
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
+</div>
 
 ---
 
@@ -37,18 +38,18 @@
 **Intelligent recommendation engine for Steam games**, trained using hybrid models like LightFM, Wide & Deep Neural Networks, and SVD.  
 Built for data exploration and model experimentation in Python with backend in C#.
 
-🛠 Stack: PyTorch, Pandas, NumPy, Python, Jupyter Notebook, C# 
+🛠 Stack: PyTorch, Pandas, NumPy, Python, Jupyter Notebook, C#  
 📂 Repo: [GitHub](https://github.com/DominikSzczepaniak/GameRecommender)
 
 ---
 
 ### 🔹 UNIX Systems Programming
-Low-level systems programming projects in pure C for UNIX environments. Includes a custom shell and memory allocator.
+Low-level systems programming projects in pure C for UNIX environments. Includes a custom shell and memory allocator.  
 Repos:
 - 📂 [`shell`](https://github.com/yourusername/minishell) – fully functional shell supporting pipes, redirections, signals, and built-in commands  
 - 📂 [`malloc`](https://github.com/yourusername/malloc) – custom implementation of `malloc` using memory mapping and manual block management
 
-🛠 Stack: C, POSIX API, Memory Management, UNIX System Calls  
+🛠 Stack: C, POSIX API, Memory Management, UNIX System Calls
 
 ---
 
@@ -57,6 +58,8 @@ Repos:
 
 🛠 Stack: C, Minimax Algorithm, Alpha-Beta Pruning  
 📂 Repo: [GitHub](https://github.com/PiotrStachowicz/Gomoku)
+
+---
 
 ## 🧠 Fun Facts
 - 🏸 I play badminton professionally  
