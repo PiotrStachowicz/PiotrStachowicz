@@ -1,38 +1,25 @@
 <h1 align="center">Hi there, I'm <YOUR NAME> 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;r" alt="Typing SVG" />
-</p>
-
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center" style="color:#a259ff;">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Student+%7C+Software+Developer;Fullstack+Engineer+%7C+Tech+Enthusiast;Building+cool+stuff+and+learning+every+day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A259FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CS+Student+%7C+Fullstack+Developer;Clean+Code+%7C+Cloud+%7C+AI+Enthusiast" alt="Typing animation" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>🎓</td>
-    <td>CS student at <strong>&lt;Your University&gt;</strong>, passionate about code and innovation</td>
-  </tr>
-  <tr>
-    <td>💼</td>
-    <td>Currently working at <strong>&lt;Your Company or Freelance&gt;</strong></td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td>Learning <strong>&lt;e.g. AWS, Rust, DevOps&gt;</strong> and leveling up every week</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td>Enjoy building side projects and solving real-world problems with code</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td>Interests: <strong>Web Development</strong>, <strong>AI/ML</strong>, <strong>Cloud</strong>, <strong>System Design</strong></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-%23a259ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Fullstack-%23a259ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cloud/AWS-%23a259ff?style=for-the-badge&logoColor=white" />
+</div>
 
+<br/>
+
+<p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
+  🎓 I'm currently studying <strong>Computer Science</strong> and crafting fullstack apps with a passion for detail and performance.<br/><br/>
+  💼 Working as <strong>&lt;Your Role – e.g., Freelance Developer, Intern at X&gt;</strong> while building side projects and exploring tech trends.<br/><br/>
+  🌐 Interested in <strong>clean architecture</strong>, <strong>cloud-native development</strong>, and using <strong>tech to solve real problems</strong>.<br/><br/>
+  🌱 Currently deep-diving into <strong>&lt;Your Focus – e.g., AWS, TypeScript, Rust&gt;</strong>.
+</p>
 
 ## 🛠 Tech Stack
 
