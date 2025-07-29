@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A259FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CS+Student+%7C+Data+Engineer;Backend+Developer+%7C+Machine+Learning" alt="Typing animation" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Engineer-%23a259ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expertise-Machine%20Learning-%23a259ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skills-Backend%20Development-%23a259ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Services-%23a259ff?style=for-the-badge&logoColor=white" />
-</div>
-
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
   🎓 Currently student: <strong>Computer Science</strong> at University of Wrocław.<br/><br/>
   💼 Working as <strong>Data Engineer at Capgemini&</strong>.<br/><br/>
